@@ -7,8 +7,6 @@
 - 📫 Reach me at: **sujaljondhale63@gmail.com**
 
 
-## 🏆 Holopin Badge
-
 <p align="center">
   <a href="https://holopin.io/@sujaljondhale31">
     <img src="https://holopin.me/sujaljondhale31" />
