@@ -1,7 +1,7 @@
 # Hi, I'm Sujal Jondhale
 
 
-- 💻 Currently learning Data Structures & Algorithms  
+- 👀 I'm interested in open source
 - 🌱 Exploring GitHub workflows & open source  
 - 🤝 Looking to collaborate on beginner-friendly projects  
 - 📫 Reach me at: **sujaljondhale63@gmail.com**
